@@ -1,1 +1,1 @@
-The zener diode limits the positive voltage to a certain threshold. This will help limit the positive voltage and help prevent past the voltage range
+The zener diode limits the positive voltage to a certain threshold. This will help limit the positive voltage and help prevent past the voltage range, protecting the GPIO2 pin and the rest of Rpi 4. 
