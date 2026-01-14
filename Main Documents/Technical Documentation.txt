@@ -1,0 +1,21 @@
+1/12 
+Complete
+Created Group 8 GitHub Repo & Added Everyone as Collaborators
+Flashed “Raspberry PI OS (Legacy, 32-bit)”
+In Progress
+Pushed HelloWorldScripts Individually (4/5)
+Incomplete
+Setting Up RPi Launch on Boot (cron?)
+Drawn Diagram for GPIO2 w/ Explanation
+Update User Manual and Technical Documentation Notes
+Take a photo with "Hello World, from Group XX" with your group Number.
+
+Not Yet Submitted to ELC
+
+
+1/13/2026
+Install the raspberry legacy os
+
+This week our team set up the Raspberry Pi for the semester. We installed the required Raspberry Pi OS (Legacy, 32-bit), configured Wi-Fi and SSH, and updated the system. Python and required dependencies were installed and tested. Git was set up on the Pi, and each team member made a test commit to the group repository. The Raspberry Pi is now fully working and ready for future development and demos.
+
+#need add documentation for cron files and thonny upload
